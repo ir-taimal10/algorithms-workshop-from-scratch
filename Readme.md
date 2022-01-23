@@ -14,3 +14,5 @@ https://onlinegdb.com/Vqgzhxe2W
 ### Esta rutina permite encontrar determinada cantidad de numero primos
 https://onlinegdb.com/XCGw2R_1z
 
+### Esta rutina permite concatenar dos vectores 
+https://onlinegdb.com/GQozqZ0t5
