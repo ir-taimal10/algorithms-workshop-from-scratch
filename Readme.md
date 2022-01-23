@@ -20,5 +20,8 @@ https://onlinegdb.com/GQozqZ0t5
 ### Esta rutina permite sacar el promedio para determinado numero de valores
 https://onlinegdb.com/QYqOKMgtE
 
-### esta rutina permite calcular ponderados a partir de un vector de ponderados
+### Esta rutina permite calcular ponderados a partir de un vector de ponderados
 https://onlinegdb.com/AleMdhA4W
+
+### Esta rutina permite recibir valores en un vector y luego ordenar el vector de menor a mayor
+https://onlinegdb.com/hS_5CQ0SY
