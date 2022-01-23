@@ -16,3 +16,6 @@ https://onlinegdb.com/XCGw2R_1z
 
 ### Esta rutina permite concatenar dos vectores 
 https://onlinegdb.com/GQozqZ0t5
+
+### Esta rutina permite sacar el promedio para determinado numero de valores
+https://onlinegdb.com/QYqOKMgtE
